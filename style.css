@@ -1,0 +1,45 @@
+#header{
+
+    width:100%;
+    
+    background: url("./imgs/doNuhh5-rainy-background.jpg") ;
+    background-attachment: fixed;
+  
+    height: 100%;
+    opacity: 1;
+    overflow:hidden;
+} 
+#name{
+
+    background: center;
+    color:aliceblue;
+    
+  
+    padding: 10px;
+    text-align: center;
+   ;
+  text-decoration: none;
+  
+}
+
+#worthlessImg{
+    position : relative;
+    top: -50px;
+    left : 175px;
+    opacity: 0.9 ;
+}
+#smallL{
+  
+    position: relative;
+    top: -250px;
+    left: -100px;
+    opacity: 1;
+}
+#name2{
+    position: absolute;
+    top:400px;
+    
+    padding: 15px;
+    background: bottom #000  ;
+       
+}
